@@ -9,56 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+학력
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 인하대학교 문화콘텐츠문화경영학과, 2019.03 — 2024.02 (졸업)
+* 한국애니메이션고등학교 영상연출과, 2016.03 — 2019.02 (졸업)
 
-Work experience
+경력
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025.06 — 2025.12: CX 스태프
+  * 루트임팩트 헤이그라운드
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024.08 — 2024.11: 기획팀 인턴
+  * 협동조합가치공유연구소
+  * 소셜 인턴십 알파 프로젝트 참여
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+수상
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2022.10.13: 2022 메타버스개발자경진대회 **우수상** — 과학기술정보통신부
+* 2021.12.27: 메타버스경진대회 인공지능부문 **은상** — 디지털혁신공유대학사업단
 
-Publications
+자격증
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* 2022.12.09: 컴퓨터그래픽기능사 — 한국산업인력공단
+* 2022.06.17: GTQ 인디자인 1급 — 한국생산성본부
+* 2021.11.12: GTQ 그래픽기술자격 1급 — 한국생산성본부
+* 2021.03.18: GTQ 일러스트 1급 — 한국생산성본부
+
+스킬
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 문화콘텐츠 기획
+* 디지털 미디어
+  * 영상 연출
+  * 그래픽 디자인 (Photoshop, Illustrator, InDesign)
+* 메타버스 콘텐츠 개발
